@@ -1,5 +1,4 @@
 import React, { useState } from 'react'
-import 'Maincontent.css'
 import BtnControls from './BtnControls'
 
 
