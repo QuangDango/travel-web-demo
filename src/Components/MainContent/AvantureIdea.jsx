@@ -1,5 +1,5 @@
 import React from 'react'
-import 'Maincontent.css';
+import './Maincontent.css';
 
 const AvantureIdea = () => {
   return (

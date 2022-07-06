@@ -1,3 +1,5 @@
+import './Maincontent.css';
+
 import React from 'react'
 import AvantureIdea from './AvantureIdea'
 import Banner from './Banner'

@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { useDispatch } from 'react-redux/es/exports'
 import { addCart, deleteCart, removeCart } from '../../Redux/Action'
 import { useSelector } from 'react-redux';
-import 'Header.css'
+import './Header.css'
 
 const Header = () => {
 
