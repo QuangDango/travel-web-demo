@@ -1,7 +1,7 @@
 .footer-wrap {
     padding: 50px 0;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url(https://quangdango.github.io/travel-web-demo/public/assets/images/footer-bg.jpg);
+        url(../../../public/assets/images/footer-bg.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
