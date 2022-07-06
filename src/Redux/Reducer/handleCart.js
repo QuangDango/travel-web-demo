@@ -10,7 +10,6 @@ const handleCart = (state = cart, action) => {
             })
             if (exist) {
                 // Increase the quantity 
-                console.log('state', state)
                 return state.map((x) => {
                     return x.id === product.id ? { ...x, qty: x.qty + 1 } : x;
                 }

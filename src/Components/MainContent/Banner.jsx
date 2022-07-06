@@ -28,9 +28,7 @@ const Banner = () => {
   const widthOfSlideContainer = slideList.length * 100;
 
   const [slideIndexCurrent, setSlideIndexCurrent] = useState(0);
-
   const nextSlide = () => {
-    console.log(slideIndexCurrent);
     if (slideIndexCurrent === slideList.length - 1) {
       setSlideIndexCurrent(0);
     }
@@ -40,7 +38,6 @@ const Banner = () => {
   }
 
   const prevSlide = () => {
-    console.log(slideIndexCurrent);
     if (slideIndexCurrent === slideList.length - 1) {
       setSlideIndexCurrent(((slideIndexCurrent - 1) + slideList.length) % slideList.length);
     }
