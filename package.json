@@ -2,7 +2,7 @@
   "name": "tralver-web1",
   "version": "0.1.0",
   "private": true,
-  "home":"https://quangdango.github.io/travel-web-demo/",
+  "home":"https://quangdango.github.io/travel-web-demo",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
