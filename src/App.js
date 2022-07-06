@@ -1,5 +1,5 @@
-import 'grid.css';
-import 'App.css';
+import './grid.css';
+import './App.css';
 import Header from './Components/Header/Header';
 import Maincontent from './Components/MainContent/Maincontent';
 import Footer from './Components/Footer/Footer';
