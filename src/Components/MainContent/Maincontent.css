@@ -224,7 +224,7 @@
 
 .experience-img-front {
     position: absolute;
-    background-image: url('../../../public/assets/images/about-img.jpg');
+    background-image: url('https://quangdango.github.io/travel-web-demo/public/assets/images/about-img.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
